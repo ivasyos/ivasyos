@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👨‍💻 Hi, I'm ivasyos 
 
-<!--
-**ivasyos/ivasyos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🔥 Break It • 🧠 Understand It • 🛡️ Secure It 🔥**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a passionate, **self-taught cybersecurity enthusiast** on a mission to master the art of ethical hacking. My journey follows a methodical path: **Reconnaissance → Scanning → Exploitation → Post-Exploitation**. I dedicate my time to hands-on practice in controlled labs and CTF challenges, always operating within legal and ethical boundaries. Curiosity is my driving force!
+
+---
+
+## 🎯 What I'm Focused On
+
+- **🕵️ Recon & Scanning:** Uncovering attack surfaces with tools like Nmap and Netcat.
+- **💥 Exploitation:** Manually exploiting vulnerabilities and leveraging frameworks like Metasploit.
+- **🔑 Post-Exploitation:** Mastering pivoting, persistence, and cleanup techniques.
+- **📚 Continuous Learning:** Sharpening my skills daily through HTB, TryHackMe, and personal lab projects.
+
+---
+
+## 🛠️ My Toolkit
+
+**⚒️ Core Tools:**
+`Kali Linux` · `Nmap` · `Burp Suite` · `Metasploit` · `Python` · `Bash`
+
+**💡 Core Skills:**
+Network Reconnaissance | Vulnerability Scanning & Analysis | Web App Penetration Testing | Post-Exploitation Tactics | Scripting for Automation | Detailed Lab & CTF Writeups
+
+---
+
+## 📬 Let's Connect
+
+- **📧 Email:** [elaelliot321@gmail.com](mailto:elaelliot321@gmail.com)
+- **🌐 Location:** Probably in a terminal near you. 🖥️
+
+---
+
+**`break it • understand • secure it`** — Committed to learning, practicing, and improving every single day. 💪
