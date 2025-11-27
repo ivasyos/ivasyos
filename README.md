@@ -2,7 +2,40 @@
 
 **🔥 Break It • 🧠 Understand It • 🛡️ Secure It 🔥**
 
----
+---👨‍💻 ivasyos
+
+Break it. Understand it. Secure it.
+
+🚀 About Me
+
+Self‑taught cybersecurity learner focused on real hacking skills — recon, scanning, exploitation, and post‑exploitation.
+I learn by doing: labs, HTB, TryHackMe, and CTFs.
+
+🎯 What I Do
+
+Recon & Scanning: Nmap, Netcat, enum tools
+
+Exploitation: Manual exploits & Metasploit
+
+Post‑Exploitation: Pivoting, persistence, cleanup
+
+Daily Practice: HTB rooms, THM paths, and personal labs
+
+🧰 Tools & Skills
+
+Tools:
+Kali Linux · Nmap · Burp Suite · Metasploit · Python · Bash
+
+Skills:
+Recon · Vuln Scanning · Web Pentesting · Post‑Exploitation · Automation Scripts · Lab/CTF Writeups
+
+📬 Contact
+
+📧 elaelliot321@gmail.com
+
+📍 Somewhere inside a terminal
+
+break it • understand it • secure it
 
 ## 🚀 About Me
 
